@@ -24,12 +24,12 @@ I'm building an application for lower-income parents and mothers who need essent
 
 I'm available for freelance website projects and open to connecting with teams building products that matter. If that sounds like you, let's talk!
 
-**😄 Pronouns: She/Her/Hers**
+** Pronouns: She/Her/Hers **
 
-**- ⚡ **Fun fact:** **
-🎬 A movie I can rewatch endlessly: Chappie
+** Fun fact: ** 
+A movie I can rewatch endlessly: Chappie
 
-## 📫 Let's Connect
+## Let's Connect
 
 - 💼 LinkedIn: www.linkedin.com/in/sushana-thomas-13624191/
 - 🌐 Portfolio: https://sushanathomas.netlify.app/
