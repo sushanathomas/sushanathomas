@@ -4,6 +4,9 @@
 
 I'm a freelance software engineer who builds websites for clients and teams who want their products to make a real difference in people's lives.
 
+<img width="757" height="770" alt="My Profile" src="https://github.com/user-attachments/assets/e3b28f58-ecde-4669-aef7-ca0074ced1db" />
+
+
 ## My Path
 
 - 🛡️ **Security Operations Analyst**: I was the point of contact during emergencies, which sharpened my ability to communicate under pressure, make quick decisions, and document with precision.
